@@ -1,0 +1,4 @@
+-- Dodawanie nowych plików do repozytorium git
+$ git init
+$ git add .
+$ git commit -m "Initial commit"
